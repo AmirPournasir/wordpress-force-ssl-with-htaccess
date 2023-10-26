@@ -1,0 +1,1 @@
+just add this code to your wordpress root .htacaess file
